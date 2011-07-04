@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 =begin rdoc
 
 = SixArm Ruby Gem: SetLocale module wth rubygem_set_locale methods for I18n internationalization
