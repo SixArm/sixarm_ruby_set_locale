@@ -1,6 +1,6 @@
 require 'simplecov'
 SimpleCov.start
-require 'test/unit'
+require 'minitest/autorun'
 require 'rubygem_set_locale'
 require 'rubygem_i18n_mock'
 
