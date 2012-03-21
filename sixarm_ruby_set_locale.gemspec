@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_set_locale"
-  s.summary           = "SixArm Ruby Gem: ApplicationController set_locale method for localization/internationalization"
+  s.summary           = "SixArm.com » Ruby » ApplicationController set_locale method for localization/internationalization"
   s.version           = "1.0.4"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"

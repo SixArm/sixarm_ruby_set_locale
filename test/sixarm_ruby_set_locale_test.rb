@@ -1,6 +1,7 @@
+# -*- coding: utf-8 -*-
+require 'minitest/autorun'
 require 'simplecov'
 SimpleCov.start
-require 'minitest/autorun'
 require 'rubygem_set_locale'
 require 'rubygem_i18n_mock'
 
