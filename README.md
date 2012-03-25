@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> SetLocale module wth rubygem_set_locale methods for I18n internationalization
 
-* Docs: <http://sixarm.com/sixarm_ruby_set_locale/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_set_locale/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_set_locale>
 * Repo: <http://github.com/sixarm/sixarm_ruby_set_locale>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
