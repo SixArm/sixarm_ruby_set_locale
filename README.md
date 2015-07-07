@@ -51,8 +51,3 @@ To install with high security:
       before_filter :rubygem_set_locale
       ...
     end
-
-
-## Changes
-
-* 2012-03-14 1.0.4 Update docs, tests
