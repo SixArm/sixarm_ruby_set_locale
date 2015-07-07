@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-require 'minitest/autorun'
-require 'simplecov'
+require "minitest/autorun"
+require "simplecov"
 SimpleCov.start
-require 'rubygem_set_locale'
-require 'rubygem_i18n_mock'
+require "rubygem_set_locale"
+require "rubygem_i18n_mock"
 
 class Testing < Test::Unit::TestCase
 
