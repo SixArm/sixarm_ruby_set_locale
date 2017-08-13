@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_set_locale"
-  s.summary           = "SixArm.com » Ruby » ApplicationController #set_locale method"
+  s.summary           = "SixArm.com → Ruby → ApplicationController #set_locale method"
   s.description       = "ApplicationController set_locale method for localization/internationalization"
   s.version           = "1.0.5"
 
