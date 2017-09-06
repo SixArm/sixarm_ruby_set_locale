@@ -5,7 +5,7 @@ SimpleCov.start
 require "rubygem_set_locale"
 require "rubygem_i18n_mock"
 
-class Testing < Test::Unit::TestCase
+class Testing < Minitest::Test
 
  include SetLocale
 
